@@ -10,3 +10,7 @@ D--> E[Run git commit on your local]
 
 
 ```
+
+## Generating ssh keygeneration
+
+A[Open a terminal in your windows DOS or git bash] --> B [ ssh-keygen -t ed25519 -C "your_email@example.com"]
